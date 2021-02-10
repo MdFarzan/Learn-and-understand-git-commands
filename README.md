@@ -11,3 +11,8 @@
 
 Simple paragraph is done without any symbol.
 
+
+* Bullet 1
+* Bullet 2
+* Bullet 3
+
