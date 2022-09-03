@@ -22,3 +22,5 @@ Simple paragraph is done without any symbol.
 * Bullet 2
 * Bullet 3
 
+
+Creating merge conflict in main branch
